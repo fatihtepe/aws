@@ -1,3 +1,5 @@
+[AWS Solution Architect Associate Certification — Study Notes](https://towardsaws.com/aws-solution-architect-associate-certification-study-notes-c32f50503f8a)
+
 
 [Tips from my Journey to an AWS Solutions Architect Associate Certification](https://medium.com/@lior.k.sh/tips-from-my-journey-for-aws-solutions-architect-associate-certification-8f4eb8344a98)
 
